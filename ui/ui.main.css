@@ -1,0 +1,40 @@
+/* UndevIT? */
+
+@font-face {
+  font-family: 'Manrope regular';
+  src: url(../materials/fonts/Manrope/Manrope-Regular.woff);
+}
+
+@font-face {
+  font-family: 'Manrope medium';
+  src: url(../materials/fonts/Manrope/Manrope-Medium.woff);
+}
+
+:root {
+  --bg-main: #0D0D0D;
+  --bg-block: linear-gradient(#4B4B4B 50%, #525252 50%);
+  --bg-block-2: linear-gradient(#7A7A7A 50%, #737373 50%);
+  --bg-block-3: rgba(24, 24, 24, .8);
+  --bg-accent: rgba(245, 245, 245, .6);
+
+  --text-1: #D4D4D4;
+  --text-2: #BCBCBC;
+  --text-3: #7E7E7E;
+
+  --accent-green: #B8E0D2;
+  --accent-blue: #95B8D1;
+  --accent-pink: #EAC4D5;
+  --accent-orange: #F6CA94;
+
+  --stroke-2: #1C1C1C;
+  --stroke-3: #242424;
+  --stroke-4: #2E2E2E;
+  --stroke-accent: #C7C7C7;
+
+  --nodes-output: #7C59C6;
+  --nodes-int: #3A37BC;
+  --nodes-str: #BB713C;
+  --nodes-country: #6BCEB0;
+  --nodes-event: #AF5353;
+  --nodes-focus: #55C153;
+}

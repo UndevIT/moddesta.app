@@ -1,0 +1,31 @@
+{
+  "name": "moddesta.app",
+  "version": "0.0.1-alpha",
+  "description": "Modern and universal Hearts Of Iron 4 modding tool",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "moddesta",
+    "hoi4",
+    "modding",
+    "modding tool",
+    "hearts of iron 4",
+    "paradox"
+  ],
+  "author": "UndevIT",
+  "publisher": "UndevIT",
+  "contributors": [
+    {
+      "name": "Maksim Ruletov"
+    },
+    {
+      "name": "frizovshik"
+    }
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^31.0.2"
+  }
+}
